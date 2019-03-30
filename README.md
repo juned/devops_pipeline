@@ -1,4 +1,4 @@
-# devops_pipeline_git
+# devops_pipeline
 
 # ########
 # DevOps pipeline demo with github integration.
