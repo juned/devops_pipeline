@@ -2,4 +2,3 @@
 
 # ########
 # DevOps pipeline demo with github integration.
-# ---
